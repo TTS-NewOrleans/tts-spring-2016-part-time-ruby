@@ -5,4 +5,5 @@ class MojoCup < Cup
     puts 'Welcome to Mojo Coffee!'
   end
 
+
 end
